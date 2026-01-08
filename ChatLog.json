@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like we've been here before. There are no specific results for 'hi', but I can still chat with you. What would you like to talk about?"
+    }
+]
